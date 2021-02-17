@@ -9,5 +9,5 @@ SamieSosa147/SamieSosa147 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 https://samiesosa147.github.io/TechFlash
-[TeachFlash](https://samiesosa147.github.io/TechFlash) 
+[TeachFlash](https://github.com/SamieSosa147/TechFlash#readme) 
 
