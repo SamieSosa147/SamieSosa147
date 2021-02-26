@@ -1,4 +1,4 @@
-### Hello
+### Hello  :smile:
 
 My name is Samuel Prempeh and I am a tech enthusiast and creative evaluator with experience with javascript, AWS, and Mern-Stack. Utilizing my academic background in political science and economics, I use technology to reflect the digital sub-cultures of a country. When I'm not working, I'm probably browsing through social media apps discovering ways to monetize content, discovering more about Quantum Computing, or creating a virtual bot with UiPath.
 
