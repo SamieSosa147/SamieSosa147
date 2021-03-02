@@ -11,3 +11,7 @@ LitFit is an application that serves to monetize and unveil the sub-retail cultu
 [Homecooked](https://github.com/SamieSosa147/Homecooked) 
 
 Homecooked allows users to see a massive variety of ingredients by inputting foods they have at home or cultural cuisines they would like to recreate. With more than 72% of local restaurants modifying their hours of service and employees; Homecooked serves to offer a covid-free dining experience by formulating diverse recipes that mimic foods served in local pre-pandemic restaurants. The recipe generator optimizes queries that are backed by a restful API. 
+
+[A-Lil-Bit-Salty](https://github.com/Salt-Squad/A-Lil-Bit-Salty-backend)
+
+Our app is called A-lil-Bit-Salty. It is picture based food app for people with a uniqie TASTE of humor. The app alows users to submit comments under not-so-attractive foods. Users can select specific pictures they want to comment under. The kicker is, users can update, or even delete anyones comments.It is a community of satire commenting on disgusting images of "delicuous" meals. In the future, we would like to add a feature that allows user's contents as well user authentication, a feature that would only allow a specific user to edit, or delete their own comment.
