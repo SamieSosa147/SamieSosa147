@@ -15,3 +15,7 @@ Homecooked allows users to see a massive variety of ingredients by inputting foo
 [A-Lil-Bit-Salty](https://github.com/Salt-Squad/A-Lil-Bit-Salty-backend)
 
 Our app is called A-lil-Bit-Salty. It is picture based food app for people with a uniqie TASTE of humor. The app alows users to submit comments under not-so-attractive foods. Users can select specific pictures they want to comment under. The kicker is, users can update, or even delete anyones comments.It is a community of satire commenting on disgusting images of "delicuous" meals. In the future, we would like to add a feature that allows user's contents as well user authentication, a feature that would only allow a specific user to edit, or delete their own comment.
+
+## Connect with Me
+
+## Things I am currently working on
