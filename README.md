@@ -18,3 +18,6 @@ Our app is called A-lil-Bit-Salty. It is picture based food app for people with 
 
 ## Things I am currently working on
 
+- Investigating AWS and acquiring my associate solution architect certification
+- Discovering Quantum computing and development with Qiskit
+- Researching emerging markets specifically RPA company UIpath
